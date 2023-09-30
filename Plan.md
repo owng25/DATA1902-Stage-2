@@ -55,7 +55,7 @@ Plan
                 - CPI category (x-axis), CPI value (y-axis), ENSO event but only La Nina/El Nino (colour)
             - Chart B: 3 attributes
                 - Line Plot
-                - Date (x-axis), CPI adjusted for trim mean (y-axis), ENSO event (colour)
+                - Date (x-axis), ABARES/CPI category but not sure which yet (y-axis), ENSO event (colour)
             - Nominal or Ordinal: ENSO event
                 - Chart A
             - Quantitative: CPI value
