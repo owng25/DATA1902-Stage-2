@@ -50,6 +50,16 @@ Plan
     - Oscar
         - Summaries
         - Chart
+            - Chart A: 3 attributes
+                - Violin Plot
+                - CPI category (x-axis), CPI value (y-axis), ENSO event but only La Nina/El Nino (colour)
+            - Chart B: 3 attributes
+                - Line Plot
+                - Date (x-axis), CPI adjusted for trim mean (y-axis), ENSO event (colour)
+            - Nominal or Ordinal: ENSO event
+                - Chart A
+            - Quantitative: CPI value
+                - Chart A
     - Owen N
         - Summaries
         - Chart
@@ -76,5 +86,5 @@ Plan
                 - Date (x-axis), SST (y-axis)
             - Nominal or Ordinal: ENSO event
                 - Chart A
-            - Quantiative: Rainfall
+            - Quantitative: Rainfall
                 - Chart A
