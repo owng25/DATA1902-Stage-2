@@ -49,6 +49,10 @@ Plan
         - Chart
     - Oscar
         - Summaries
+            - Group by nominal:
+                - Group by ENSO cycle and ABARES category, then find the mean of each
+            - Group by ordinal:
+                -  
         - Chart
             - Chart A: 3 attributes
                 - Box Plot
