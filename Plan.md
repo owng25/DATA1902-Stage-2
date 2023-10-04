@@ -52,7 +52,7 @@ Plan
             - Group by nominal:
                 - Group by ENSO cycle and ABARES category, then find the mean of each
             - Group by ordinal:
-                -  
+                -  Group by binned rainfall and CPI category, then find the mean of each
         - Chart
             - Chart A: 3 attributes
                 - Box Plot
