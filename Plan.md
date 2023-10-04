@@ -1,4 +1,4 @@
-Criteria
+Criteria hey
 - M1 (Individual)
     - The Distinction criteria hold, and all the code is **well-documented** and **clear**, and each provides the **overall aggregate** as well as the **aggregate of each group**.
     - Every member has written Python code that correctly computes some **grouped-aggregate** where the grouping is based on a **nominal attribute** of the data, and each member has written Python code that correctly calculates some **grouped aggregate** where the grouping is based on a **binned quantitative attribute**. All the code pieces are distinct from one another.
